@@ -1,0 +1,12 @@
+{
+  "name": "jsantell-interpolate-color",
+  "description": "A simple color interpolater",
+  "version": "0.0.2",
+  "keywords": [
+    "hsl",
+    "color",
+    "interpolate"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
